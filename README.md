@@ -1,6 +1,6 @@
 # Estágio_Otavio_Freire
 
-Este repositório foi durante a minha participação no processo seletivo de uma vaga de estágio.
+Este repositório foi criado durante a minha participação no processo seletivo de uma vaga de estágio.
 
 Neste repositório você aprenderá como imprimir o campo subject de certificados em formato DER
 
